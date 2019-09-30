@@ -10,7 +10,7 @@ namespace ArithmeticOperations
         }
         static void switchcase(ref int n1,ref int n2)
         {
-            Console.WriteLine("Select the operation you want to perform:-\n 1 Addition (+)\n 2 Subtraciton (-)\n 3 Multiplication (*)\n 4 Division (/)\n 5 Modulus (%)\n 6 Increment (++)\n 7 Decrement (--)\n 8 EXIT\n");
+            Console.WriteLine("Select the operation you want to perform:-\n 1 Addition (+)\n 2 Subtraction (-)\n 3 Multiplication (*)\n 4 Division (/)\n 5 Modulus (%)\n 6 Increment (++)\n 7 Decrement (--)\n 8 EXIT\n");
                 
             int opt=int.Parse(Console.ReadLine());
             switch(opt)

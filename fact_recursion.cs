@@ -1,7 +1,7 @@
 using System;
 namespace Fibonacci
 {
-    class Prac4_recursion
+    class Fact_recursion
     {
         public static double F(int n)
         {   
