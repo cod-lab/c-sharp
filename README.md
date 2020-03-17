@@ -1,2 +1,2 @@
 # c-sharp
-c# programs
+C# Programs
